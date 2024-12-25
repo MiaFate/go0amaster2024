@@ -58,4 +58,5 @@ func main() {
 	fmt.Println(Domingo, Lunes, Martes, Miercoles, Jueves, Viernes, Sabado)
 
 	fmt.Println("prueba de Goland")
+	fmt.Println("prueba Goland 2")
 }
