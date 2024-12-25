@@ -30,6 +30,8 @@ const (
 )
 
 // Global con mayusculas
+
+// Pi constant
 const Pi = 3.1415
 
 // Funcion principal, por aqui comienza nuestro programa
@@ -50,7 +52,7 @@ func main() {
 	fmt.Println(a, b, c)
 	fmt.Println(firstName, lastName, age)
 	fmt.Println(pi)
-
+	fmt.Println(Pi)
 	fmt.Println(x, y, z, w)
 
 	fmt.Println(Domingo, Lunes, Martes, Miercoles, Jueves, Viernes, Sabado)
